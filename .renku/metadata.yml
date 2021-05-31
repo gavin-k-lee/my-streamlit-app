@@ -1,0 +1,30 @@
+'@id': https://renkulab.io/projects/lee.gavin.k/my-dashboard
+'@type':
+- http://schema.org/Project
+- http://www.w3.org/ns/prov#Location
+http://schema.org/agent: 0.15.1
+http://schema.org/creator:
+  '@id': mailto:lee.gavin.k@gmail.com
+  '@type':
+  - http://schema.org/Person
+  - http://www.w3.org/ns/prov#Person
+  http://schema.org/affiliation: null
+  http://schema.org/alternateName: null
+  http://schema.org/email: lee.gavin.k@gmail.com
+  http://schema.org/name: Gavin Lee
+  http://www.w3.org/2000/01/rdf-schema#label: Gavin Lee
+http://schema.org/dateCreated: '2021-05-31T13:49:35.327954+00:00'
+http://schema.org/name: my-dashboard
+http://schema.org/schemaVersion: '8'
+https://swissdatasciencecenter.github.io/renku-ontology#automatedTemplateUpdate: false
+https://swissdatasciencecenter.github.io/renku-ontology#immutableTemplateFiles: []
+https://swissdatasciencecenter.github.io/renku-ontology#templateId: python-minimal-streamlit
+https://swissdatasciencecenter.github.io/renku-ontology#templateMetadata: '{"__template_source__":
+  "https://github.com/SwissDataScienceCenter/contributed-project-templates", "__template_ref__":
+  "0.2.0", "__template_id__": "python-minimal-streamlit", "__namespace__": "lee.gavin.k",
+  "__automated_update__": true, "__repository__": "https://renkulab.io/gitlab", "__sanitized_project_name__":
+  "my-dashboard", "__project_slug__": "lee.gavin.k/my-dashboard", "description": "",
+  "name": "my-dashboard"}'
+https://swissdatasciencecenter.github.io/renku-ontology#templateReference: 0.2.0
+https://swissdatasciencecenter.github.io/renku-ontology#templateSource: https://github.com/SwissDataScienceCenter/contributed-project-templates
+https://swissdatasciencecenter.github.io/renku-ontology#templateVersion: a06ab248e92203343e48854ddc118c4488dd3379
