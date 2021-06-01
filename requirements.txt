@@ -4,3 +4,4 @@ voila
 ipywidgets>=7.5
 plotly==4.14.3
 chart-studio
+jupyter_bokeh
