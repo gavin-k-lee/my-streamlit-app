@@ -23,6 +23,7 @@ RUN conda env update -q -f /tmp/environment.yml && \
     /opt/conda/bin/pip install -r /tmp/requirements.txt && \
     jupyter labextension install --no-build @jupyter-voila/jupyterlab-preview && \
     jupyter labextension install --no-build @jupyter-widgets/jupyterlab-manager && \
+    jupyter labextension install jupyterlab-plotly@4.14.3 && \
     jupyter lab build && \
     conda clean -y --all && \
     conda env export -n "root"

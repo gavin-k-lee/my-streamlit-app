@@ -1,3 +1,5 @@
 scikit-learn
 seaborn
 voila
+ipywidgets>=7.5
+plotly==4.14.3
