@@ -7,4 +7,10 @@ dependencies:
   - pip:
     - streamlit
     - jupyter-server-proxy
+    - matplotlib
+    - seaborn
+    - plotly
+    - bokeh
+    - pandas
+    - altair
 prefix: "/opt/conda"
