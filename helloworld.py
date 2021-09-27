@@ -47,7 +47,7 @@ df.index = pd.date_range(start="1/1/18", periods=len(df), freq="D")
 
 
 with st.beta_container():
-    st.title("Python Data Visualization Tour")
+    st.title("Python Data Visualization Tour - SAMPLE DASHBOARD")
     st.header("Popular plots in popular plotting libraries")
     st.write("""See the code and plots for five libraries at once.""")
 
